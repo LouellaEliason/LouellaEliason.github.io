@@ -1,0 +1,19 @@
+body {
+  background-color:#ca85ff;
+  font-family:helvetica, verdana, sans-serif;
+  text-align:left;
+}
+h1 {
+  font-family: "lucidia console", monaco, "courier new";
+  text-shadow: 0px 0px 5px #ffffff;
+  text-align:center;
+}
+h2 {
+  font-family:Helvetica, verdana, sans-serif;
+  font-weight:bold;
+}  
+a {
+  font-family:Helvetica, verdana, sans-serif;
+  text-shadow: 0px 0px 7px #ffffff;
+  color:#232242;
+} 
