@@ -1,0 +1,66 @@
+<doctype html>
+<html lang="en-US">
+<head>
+<link rel="stylesheet" href="lestyle.css">
+<style>
+<title> Louella Eliason | Open Source vs Propietary</title>
+<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<h1> Report on Free and Open Source vs Propietary Software
+</h1>
+<h2> What is the difference between Open Source and Propietary Software? </h2>
+<img src="foss_vs_prop_examples.jpg" alt="Image of example softwares" title="Examples of Open Source and Propietary Companies" style="width:730px;height:417px>
+<p1> Free and Open Source Software (FOSS) refers to software that is not free in the finacial sense,
+but free in the liberation sense. FOSS code is available to the users to modify, update, and share.<br>
+Propietary Software refers to software that is less modifable from the users perspective. While 
+modification of the software code is possible, it may not always be an option, or it may be illegal to tamper with.
+These softwares depend on the code owners for support, updates, and modifcations.
+ The following
+video further explains these concepts quickly.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3rfp6JDzjk" title="Closed vs Open Source as Fast As Possible" 
+frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p1>
+<h2> Which is best to use for GIS applications?</h2>
+<p2> There are advantages and disadvantages to using either form of software. The tables below summarizes
+these for each form.
+<table style="width:100%"> 
+<tr>
+  <th colspan="2">Free and Open Source Software</th>
+  <th colspan="2">Propietary Software<th>
+</tr>
+<tr>
+  <td>Advantages</td>
+  <td>Disadvantages</td>
+  <td>Advatages</td>
+  <td>Disadvantages</td>
+</tr>
+<tr>
+  <td> Scalability: Companies employing FOSS are able to scale up their business without needing to purchase more licenses</td>
+  <td> Compatability: Open Source programs can be inoperable on some propietary softwares, or could require special FOSS drivers(More $)</td>
+  <td> Ease of Use: Propietary software often prioritizes efficient UI/UX designs, making it easy for users of any experience level to use</td>
+  <td> Homogenous Catastrophe: When all part of your system is dependent on one source, one fatal error can bring down the entire system</td>
+</tr>
+<tr>
+  <td>Market Power: Using FOSS allows the customer to maintain their market power, an option around a micromonopoly within legacy software</td>
+  <td>Difficulty of Use: FOSS can offer technical superiority, they can also create technical difficulty for inexperienced users</td>
+  <td>Interoperability: Some propietary software companies like ESRI, promote their interoperability as</td>
+  <td>Lisencing Liabilities: Inproper use of licenses or license sharing can cost your company a lot of money in compliance fines</td>
+</tr>
+<tr>
+  <td>Staff Development and recruitment: FOSS attracts users of high skill due to the flexibilty of these softwares</td>
+  <td></td>
+  <td></td>
+  <td>Limited Support: Propietary software companies handle all technical support within their company, where as any FOSS users is able find bugs and repair them</td>
+</tr>
+</p2>
+<h2> My Experiences and Observations with Open Source and Propietary Softwares
+<p3>
+My education in GIS has primarily been built using ESRI's collection of Arc softwares and programs. I have used QGIS and Diva GIS, both open source softwares that offer a range of functions
+similar to ArcGIS Pro. I have noticed that no matter what data format I am able to find, ArcGIS Pro has demonstrated great interoperability functions and allows many files conversions. Most of my experience comes
+from the university setting, where licensing for students often tends to be cheaper, so while I see the value in a low to zero cost deployability of FOSS, I have been lucky enough to learn and conduct my research 
+using propietary software with important analysis extensions included. My slight experience using FOSS and <a href="https://www.youtube.com/watch?v=jUgiG6eaYtI&t=2950s&ab_channel=EUScience%26Innovation">Paul Ramsey's presentation</a> from a managers perspective has definitely increased the chances I will be using
+and employing the interoperabilty pathway in my future. I have projects that have been developed using ArcPy or ArcGIS Online that would be tiresome to start over with using FOSS, but I can see the value in using FOSS
+to enhance my projects in the future.
+</body>
+</html>
